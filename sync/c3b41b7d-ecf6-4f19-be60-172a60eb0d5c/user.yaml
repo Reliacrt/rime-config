@@ -1,0 +1,13 @@
+var:
+  last_build_time: 1679484692
+  option:
+    ascii_punct: true
+    simplification: true
+  previously_selected_schema: pinyin_simp
+  schema_access_time:
+    double_pinyin: 1679483817
+    luna_pinyin: 1679478418
+    luna_pinyin_fluency: 1679479167
+    pinyin_simp: 1679484037
+    wubi86: 1627267496
+    wubi_pinyin: 1627269587

@@ -1,0 +1,316 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	361
+#@/user_id	c3b41b7d-ecf6-4f19-be60-172a60eb0d5c
+a 	啊	c=1 d=0.398519 t=361
+an niu 	按鈕	c=0 d=0.0621885 t=361
+ao yun hui 	奧運會	c=2 d=0.44852 t=361
+ba 	吧	c=1 d=0.29671 t=361
+ba le 	罷了	c=1 d=0.453845 t=361
+ban ben 	版本	c=1 d=0.302704 t=361
+bei zhu 	備註	c=2 d=0.523103 t=361
+bian ji 	編輯	c=2 d=0.628591 t=361
+bian yi 	便宜	c=0 d=0.0212248 t=361
+bian yi 	編譯	c=1 d=0.214381 t=361
+bian yi cuo wu 	便宜錯誤	c=1 d=0.213312 t=361
+biao 	表	c=1 d=0.43475 t=361
+biao dan 	表單	c=1 d=0.65377 t=361
+biao ding yi 	表定義	c=1 d=0.463013 t=361
+bu cuo 	不錯	c=1 d=0.683861 t=361
+bu dong 	不懂	c=1 d=0.960789 t=361
+bu dui 	不對	c=2 d=1.6286 t=361
+bu qing chu 	不清楚	c=1 d=0.839457 t=361
+bu shi 	不是	c=2 d=1.13893 t=361
+bu tai 	不太	c=0 d=0.114457 t=361
+bu tai yi yang 	不太一樣	c=1 d=0.733447 t=361
+bu tong de 	不同的	c=0 d=0.0180866 t=361
+bu yao 	不要	c=1 d=0.182684 t=361
+bu yi yang 	不一樣	c=1 d=0.755784 t=361
+bu yong 	不用	c=1 d=0.923116 t=361
+can shu 	參數	c=4 d=1.43953 t=361
+ce shi 	測試	c=2 d=1.99501 t=346
+chai cheng 	拆成	c=1 d=0.418952 t=361
+chan pin 	產品	c=0 d=0.040657 t=361
+chan pin li jie 	產品理解	c=1 d=0.408608 t=361
+cheng 	成	c=1 d=0.429557 t=361
+cheng ben 	成本	c=1 d=0.786628 t=361
+chou chou 	瞅瞅	c=1 d=0.647265 t=361
+chuan le 	傳了	c=1 d=0.628135 t=361
+chuang jian 	創建	c=1 d=0.33454 t=361
+ci dian 	詞典	c=1 d=1 t=359
+cun zai 	存在	c=1 d=0.286505 t=361
+cuo wu 	錯誤	c=1 d=0.23668 t=361
+da an 	答案	c=1 d=0.995012 t=361
+da xiao 	大小	c=0 d=0.0241714 t=361
+dai 	待	c=1 d=0.382322 t=361
+dai que ren 	待確認	c=3 d=1.33742 t=361
+dan 	但	c=0 d=0.0278037 t=361
+dan jia 	單價	c=1 d=0.806541 t=361
+dan mei you 	但沒有	c=1 d=0.279431 t=361
+dan shi 	但是	c=1 d=0.687289 t=361
+dan yuan 	單元	c=1 d=0.588605 t=361
+dao chu 	導出	c=1 d=0.665697 t=361
+dao chu an niu 	導出按鈕	c=1 d=0.625002 t=361
+de 	的	c=18 d=9.22194 t=361
+dei 	得	c=1 d=0.88692 t=361
+deng 	等	c=0 d=0.0980199 t=361
+deng wo 	等我	c=1 d=0.305746 t=361
+di er ge 	第二個	c=1 d=0.479505 t=361
+di yi shi jian 	第一時間	c=1 d=0.467666 t=361
+dian 	點	c=1 d=0.514274 t=361
+die dai 	迭代	c=1 d=0.211792 t=361
+ding yi 	定義	c=2 d=1.23685 t=361
+dong ao 	東奧	c=1 d=0.219808 t=361
+dong jing 	東京	c=2 d=0.446283 t=361
+du xie 	讀寫	c=1 d=0.18452 t=361
+dui 	對	c=2 d=1.07439 t=361
+dui dui 	對對	c=1 d=0.499074 t=361
+duo chu lai 	多出來	c=1 d=0.822835 t=361
+duo yu 	多餘	c=1 d=0.634448 t=361
+e 	額	c=2 d=0.844803 t=361
+er qie 	而且	c=1 d=0.25284 t=361
+fa song 	發送	c=2 d=0.963867 t=361
+fan dian 	飯點	c=1 d=0.369723 t=361
+fen ye 	分頁	c=3 d=0.798671 t=361
+ga 	尬	c=0 d=0.0421052 t=361
+gai 	改	c=2 d=1.31879 t=361
+gai le 	改了	c=1 d=0.873716 t=361
+gai nian 	概念	c=1 d=0.909373 t=361
+gan jue 	感覺	c=2 d=1.47008 t=361
+ge ren 	個人	c=1 d=0.19398 t=361
+ge ren neng li 	個人能力	c=0 d=0.0196912 t=361
+ge ren neng li ti sheng 	個人能力提升	c=1 d=0.197899 t=361
+gei ge 	給個	c=1 d=0.371577 t=361
+geng gai 	更改	c=1 d=0.50409 t=361
+geng xin 	更新	c=1 d=0.34406 t=361
+geng xin xia 	更新下	c=1 d=0.307279 t=361
+gong neng 	功能	c=1 d=0.233014 t=361
+gong neng yi yang 	功能一樣	c=1 d=0.440432 t=361
+gong zuo liang 	工作量	c=1 d=0.895834 t=361
+guan li 	管理	c=1 d=0.316637 t=361
+guan xi 	關係	c=0 d=0.0980199 t=361
+guan xi bu dui deng 	關係不對等	c=1 d=0.985112 t=361
+hai 	還	c=0 d=0.0414783 t=361
+hai bu tai yi yang 	還不太一樣	c=1 d=0.416862 t=361
+hai me 	還麼	c=1 d=0.311923 t=361
+hai mei 	還沒	c=1 d=0.298197 t=361
+hai shi 	還是	c=1 d=0.701173 t=361
+hao le 	好了	c=0 d=0.0302704 t=361
+he 	和	c=1 d=0.790571 t=361
+hen duo 	很多	c=1 d=0.631284 t=361
+heng 	橫	c=1 d=1 t=344
+hua 	話	c=0 d=0.0701173 t=361
+huan jing 	環境	c=1 d=1 t=353
+hui 	會	c=1 d=0.818731 t=361
+ji 	及	c=0 d=0.019205 t=361
+ji ben 	基本	c=1 d=0.955997 t=361
+ji fei 	計費	c=2 d=1.33701 t=361
+ji fei xiang 	計費項	c=1 d=0.847894 t=361
+ji shu 	技術	c=0 d=0.0408936 t=361
+ji shu wen dang 	技術文檔	c=1 d=0.201897 t=361
+ji shu zhan 	技術棧	c=1 d=0.209088 t=361
+jian dan 	簡單	c=1 d=0.373439 t=361
+jiang 	講	c=1 d=0.927743 t=361
+jie kou 	接口	c=3 d=1.8225 t=361
+jing dian 	經典	c=0 d=0.0909373 t=361
+jiu bian cheng 	就變成	c=0 d=0.0740818 t=361
+jiu bian cheng le 	就變成了	c=1 d=0.744532 t=361
+jiu ke yi 	就可以	c=1 d=0.390628 t=361
+jiu shi 	就是	c=2 d=0.845373 t=361
+ju he 	聚合	c=1 d=0.594521 t=361
+kai mu 	開幕	c=1 d=0.22313 t=361
+kai mu shi 	開幕式	c=1 d=0.227638 t=361
+kan 	看	c=1 d=0.198891 t=361
+kan le 	看了	c=0 d=0.0551563 t=361
+kan le yi xia 	看了一下	c=1 d=0.554327 t=361
+kan qi lai 	看起來	c=1 d=0.677057 t=361
+ke 	課	c=1 d=0.188247 t=361
+ke neng 	可能	c=1 d=0.729789 t=361
+ke shi 	可是	c=1 d=0.70822 t=361
+ke yi 	可以	c=2 d=1.67661 t=361
+kuo zhan 	擴展	c=1 d=1 t=358
+lai 	來	c=1 d=0.680451 t=361
+le 	了	c=2 d=1.64278 t=361
+lei xing 	類型	c=2 d=0.750616 t=361
+li jie 	理解	c=0 d=0.040657 t=361
+lia 	倆	c=1 d=0.433874 t=361
+lian jie 	鏈接	c=1 d=0.29523 t=361
+liang bian 	兩邊	c=1 d=0.752014 t=361
+liang ge 	兩個	c=1 d=0.509156 t=361
+liang pian 	兩篇	c=0 d=0.0209088 t=361
+liang tiao 	兩條	c=2 d=0.823577 t=361
+lie biao 	列表	c=2 d=1.15902 t=361
+lin shi 	臨時	c=1 d=0.231078 t=361
+ling yi ge 	另一個	c=1 d=0.609571 t=361
+ma 	嗎	c=2 d=1.81058 t=361
+ma fan 	麻煩	c=0 d=0.0694197 t=361
+mei you 	沒有	c=2 d=0.578592 t=361
+na 	那	c=1 d=1 t=361
+na ge 	那個	c=1 d=0.571209 t=361
+ne 	呢	c=0 d=0.0380983 t=361
+neng li 	能力	c=1 d=0.194952 t=361
+ni shuo de 	你說的	c=1 d=0.489192 t=361
+ni zhao 	你找	c=1 d=0.496585 t=361
+ni zhi dao 	你知道	c=1 d=0.99005 t=361
+qi 	齊	c=1 d=0.186374 t=361
+qi yong 	棄用	c=1 d=0.255381 t=361
+qiang zhi 	強制	c=1 d=0.2334 t=361
+qing qiu 	請求	c=1 d=0.428835 t=361
+qing qiu ti 	請求體	c=2 d=0.513964 t=361
+qu bie 	區別	c=1 d=0.268474 t=361
+quan xian 	權限	c=0 d=0.0299692 t=361
+que ren 	確認	c=1 d=0.519025 t=361
+que ren tong zhi 	確認通知	c=1 d=0.527292 t=361
+que shao 	缺少	c=1 d=0.249075 t=361
+que shi 	確實	c=2 d=1.37238 t=361
+ran hou 	然後	c=1 d=0.737123 t=361
+ren 	人	c=1 d=0.970446 t=361
+ri 	日	c=0 d=0.0597501 t=361
+ri li 	日曆	c=3 d=1.01616 t=361
+ri me 	日麼	c=1 d=1 t=357
+ri zhang dan 	日賬單	c=1 d=0.600496 t=361
+rong 	榕	c=0 d=0.1 t=342
+rong ru 	融入	c=1 d=0.211643 t=361
+rong ru tuan dui 	融入團隊	c=1 d=0.196912 t=361
+shai xuan 	篩選	c=0 d=0.0562705 t=361
+shai xuan tiao jian 	篩選條件	c=1 d=0.565525 t=361
+shan chu 	刪除	c=1 d=0.358796 t=361
+shang 	上	c=2 d=1.01146 t=361
+shang pin 	商品	c=3 d=1.47365 t=361
+shang you 	上游	c=0 d=0.0250324 t=361
+shang you jie kou 	上游接口	c=2 d=0.525476 t=361
+shi 	是	c=9 d=4.69512 t=361
+shi gei 	是給	c=1 d=0.951229 t=361
+shi jian 	時間	c=2 d=0.801095 t=361
+shi jian chuo 	時間戳	c=4 d=1.38162 t=361
+shi jian duan 	時間段	c=0 d=0.0701173 t=361
+shi jian duan le hua 	時間段了話	c=1 d=0.704688 t=361
+shi qing 	事情	c=1 d=0.618783 t=361
+shi zai 	是在	c=1 d=0.574072 t=361
+shu chu 	輸出	c=1 d=0.20089 t=361
+shu ji 	書籍	c=1 d=0.199888 t=361
+shu ju ku 	數據庫	c=2 d=0.642007 t=361
+shu ju yuan 	數據源	c=1 d=0.726149 t=361
+shu ru 	輸入	c=2 d=1.97531 t=352
+shu ru fa 	輸入法	c=1 d=1 t=349
+shu xi 	熟悉	c=1 d=0.204948 t=361
+shu xu guan 	鼠鬚管	c=2 d=1.97045 t=354
+shu yu 	術語	c=1 d=0.946485 t=361
+shuo shi 	說是	c=1 d=0.254107 t=361
+shuo shi hua 	說實話	c=1 d=0.980199 t=361
+sou ba 	搜吧	c=1 d=0.392586 t=361
+suan 	算	c=1 d=0.802519 t=361
+suo yi 	所以	c=2 d=0.784941 t=361
+tai 	太	c=0 d=0.0909373 t=361
+tai jing dian le 	太經典了	c=1 d=0.913931 t=361
+ti 	體	c=0 d=0.0488293 t=361
+ti ku 	題庫	c=2 d=0.741486 t=361
+ti mu 	題目	c=1 d=0.386741 t=361
+ti sheng 	提升	c=1 d=0.21562 t=361
+tian 	天	c=1 d=0.900325 t=361
+tiao jian 	條件	c=0 d=0.0562705 t=361
+ting 	挺	c=0 d=0.0694197 t=361
+ting 	聽	c=1 d=0.97531 t=361
+ting ma fan 	挺麻煩	c=1 d=0.697676 t=361
+tong bu 	同步	c=1 d=0.229925 t=361
+tong shi 	同事	c=1 d=0.203926 t=361
+tong zhi 	通知	c=2 d=1.06784 t=361
+tuan dui 	團隊	c=1 d=0.245805 t=361
+tuan dui ji 	團隊及	c=1 d=0.193013 t=361
+wang le 	忘了	c=1 d=0.45612 t=361
+wei sha 	爲啥	c=1 d=0.814647 t=361
+wei shen me 	爲什麼	c=1 d=0.748264 t=361
+wen dang 	文檔	c=0 d=0.020089 t=361
+wen jian 	文件	c=1 d=0.228779 t=361
+wen ti 	問題	c=3 d=2.37644 t=361
+wo zai 	我再	c=1 d=0.644036 t=361
+wo zhe 	我這	c=2 d=0.861869 t=361
+wu 	吳	c=1 d=0.185444 t=361
+wu 	無	c=0 d=0.0299692 t=361
+wu nai 	無奈	c=1 d=0.546074 t=361
+wu qi 	吳齊	c=1 d=0.191092 t=361
+wu quan xian 	無權限	c=1 d=0.301194 t=361
+wu yong 	誤用	c=1 d=0.932394 t=361
+xia 	下	c=1 d=0.610417 t=361
+xian shang 	線上	c=1 d=0.293758 t=361
+xian shi 	顯示	c=1 d=0.782705 t=361
+xian zhi 	限制	c=1 d=0.30641 t=361
+xian zhi da xiao 	限制大小	c=1 d=0.242926 t=361
+xiang 	項	c=0 d=0.0843665 t=361
+xiang ba 	項吧	c=1 d=0.67032 t=361
+xiang ying 	響應	c=0 d=0.0245367 t=361
+xiang ying ti 	響應體	c=2 d=0.519129 t=361
+xiao guo 	效果	c=1 d=1 t=356
+xie 	寫	c=0 d=0.0302704 t=361
+xie de 	寫的	c=2 d=0.926038 t=361
+xie hao le 	寫好了	c=1 d=0.304221 t=361
+xin 	新	c=0 d=0.0257947 t=361
+xin can shu 	新參數	c=1 d=0.25924 t=361
+yao bu 	要不	c=1 d=0.425283 t=361
+ye 	也	c=1 d=0.26054 t=361
+ye wu 	業務	c=0 d=0.0344728 t=361
+ye wu zhang dan 	業務賬單	c=1 d=0.346456 t=361
+yi 	已	c=0 d=0.0343009 t=361
+yi bo san zhe 	一波三折	c=1 d=0.366045 t=361
+yi dao 	一到	c=0 d=0.0209088 t=361
+yi dao liang pian 	一到兩篇	c=1 d=0.210136 t=361
+yi ge 	一個	c=4 d=2.77487 t=361
+yi ge shi jian chuo 	一個時間戳	c=1 d=0.449329 t=361
+yi gu 	一股	c=1 d=0.543351 t=361
+yi qu 	一曲	c=1 d=0.308819 t=361
+yi que ren 	已確認	c=2 d=0.69642 t=361
+yi ran 	依然	c=1 d=0.694197 t=361
+yi tiao 	一條	c=2 d=0.883293 t=361
+yi xia 	一下	c=0 d=0.0551563 t=361
+yi yang 	一樣	c=0 d=0.158281 t=361
+yong 	用	c=1 d=0.420692 t=361
+yong liang 	用量	c=1 d=0.794534 t=361
+yong zhe ge 	用這個	c=1 d=0.360595 t=361
+you 	有	c=5 d=2.86885 t=361
+you dian 	有點	c=0 d=0.0421052 t=361
+you dian ga 	有點尬	c=1 d=0.423162 t=361
+you fen ye 	有分頁	c=1 d=0.276651 t=361
+yu 	與	c=6 d=1.50735 t=361
+yu fa 	語法	c=1 d=1 t=360
+yu suan 	預算	c=3 d=1.00299 t=361
+yu suan zhang dan 	預算賬單	c=1 d=0.355226 t=361
+yuan lai 	原來	c=1 d=0.264477 t=361
+yuan lai de 	原來的	c=1 d=0.256661 t=361
+yuan lao 	元老	c=0 d=0.0261846 t=361
+yuan lao le 	元老了	c=1 d=0.263158 t=361
+yuan xing 	原型	c=1 d=0.501576 t=361
+za hui shi 	咋回事	c=1 d=0.216536 t=361
+za shuo 	雜說	c=0 d=0.0380983 t=361
+za shuo ne 	雜說呢	c=1 d=0.382893 t=361
+zen me xie 	怎麼寫	c=1 d=0.377192 t=361
+zhan 	棧	c=0 d=0.0208045 t=361
+zhan shi 	展示	c=1 d=0.690734 t=361
+zhang dan 	賬單	c=3 d=1.12673 t=361
+zhang jia 	張家	c=0 d=0.1 t=342
+zhang jia rong 	張家榕	c=1 d=1 t=343
+zhang wo 	掌握	c=1 d=0.205975 t=361
+zhe 	這	c=1 d=0.233902 t=361
+zhe die dai 	這迭代	c=1 d=0.217621 t=361
+zhe ge 	這個	c=2 d=1.35004 t=361
+zhe li shi 	這裏是	c=0 d=0.0180866 t=361
+zhe li shi bu tong de 	這裏是不同的	c=1 d=0.181772 t=361
+zhe liang ge 	這兩個	c=1 d=0.722527 t=361
+zhe me 	這麼	c=1 d=0.852144 t=361
+zhe shi 	這是	c=1 d=0.292293 t=361
+zhe xie 	這些	c=1 d=0.904837 t=361
+zhe xue 	哲學	c=1 d=0.941765 t=361
+zhe yang 	這樣	c=1 d=0.67368 t=361
+zhen kuai 	真快	c=1 d=0.218712 t=361
+zhen shi 	真實	c=1 d=1 t=350
+zhen shi 	真是	c=1 d=0.364219 t=361
+zhi bo 	直播	c=1 d=0.224249 t=361
+zhi chi 	支持	c=2 d=1.14078 t=361
+zhu 	住	c=1 d=0.240508 t=361
+zhu ming 	註明	c=2 d=0.522546 t=361
+zi dong 	自動	c=0 d=0.0481909 t=361
+zi dong que ren 	自動確認	c=2 d=1.01959 t=361
+zi duan 	字段	c=1 d=0.396531 t=361
+zuo 	做	c=2 d=1.47405 t=361
+zuo wei 	作爲	c=1 d=0.562705 t=361
