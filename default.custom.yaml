@@ -6,3 +6,6 @@ patch:
     - {schema: pinyin_simp}
     - {schema: luna_pinyin_simp}
     - {schema: luna_pinyin_fluency}
+
+  "style/font_face": "Noto Sans CJK SC" 
+  "style/font_point": 18
