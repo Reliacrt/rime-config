@@ -1,7 +1,6 @@
-distribution_code_name: Squirrel
-distribution_name: "鼠鬚管"
-distribution_version: 0.16.2
-install_time: "Mon Jul 12 17:09:13 2021"
-installation_id: "c3b41b7d-ecf6-4f19-be60-172a60eb0d5c"
-rime_version: 1.8.5
-update_time: "Mon Feb  6 20:42:33 2023"
+distribution_code_name: "fcitx-rime"
+distribution_name: Rime
+distribution_version: 5.0.15
+install_time: "Mon Mar 20 07:29:03 2023"
+installation_id: "b627a32a-c576-413c-9fda-87a866e4bba7"
+rime_version: 1.8.3
