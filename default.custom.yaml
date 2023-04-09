@@ -3,6 +3,8 @@ patch:
 
   schema_list:
     - {schema: double_pinyin}
+    - {schema: tiger}
+    - {schema: tigress}
     - {schema: pinyin_simp}
     - {schema: luna_pinyin_simp}
     - {schema: luna_pinyin_fluency}
